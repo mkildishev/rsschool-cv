@@ -14,7 +14,8 @@
 * Languages: **Russian** (Native), **English** (Intermediate)
 
 ## **Code examples**
-You can see my university laboratory works [here](https://github.com/mkildishev "personal github page")
+
+* You can see my university laboratory works [here](https://github.com/mkildishev "personal github page")
 
 ## **Experience**
 
